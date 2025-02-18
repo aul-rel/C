@@ -24,7 +24,7 @@ int main()
     printf("Inicial do nome: %c\n", inicial);//%c - para representar caractere
     nota = 8.5;//altera valor da variavel "nota"
     printf("Nota: %.1f\n", nota);
-    printf("\nVocê tem %d anos e sua nota foi %.1f\n", idade, nota);
-    
+    printf("\nVocê tem %d anos e sua nota foi %.1f\n",idade,nota);
+
     return 0;
 }
