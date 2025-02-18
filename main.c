@@ -28,3 +28,13 @@ int main()
 
     return 0;
 }
+
+/*
+int main()
+{
+    int mes=2, ano=2025; 
+    float nota=7.8;
+    printf("Mes: %d \nAno: %d\nnota:%.1f", mes, ano, nota);
+    return 0;
+}
+*/
